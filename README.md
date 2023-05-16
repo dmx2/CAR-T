@@ -61,6 +61,8 @@ Once enough T cells are expanded, they are infused back into the patient so that
 
 ### Dr. Lung-Ji Chang Paper Breakdown
 
+Dr. Chang is the President of the Shenzhen Geno-Immune Medical Institute and has been developing CAR-T therapies for cancer, and recently, has begun a clinical trial for using CAR-T therapy in autoimmune diseases (NCT05459870). The following is a breakdown and notes of all his papers related to CAR-T therapy (still in progress).
+
 **2015 - Blood <br /> First-in-man CD123-specific chimeric antigen receptor-modified T cells for the treatment of refractory acute myeloid leukemia** <br /> [Link](https://ashpublications.org/blood/article/126/23/3778/93119/First-in-Man-CD123-Specific-Chimeric-Antigen)
 
 - Study type: Clinical case report
