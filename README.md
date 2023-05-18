@@ -104,10 +104,11 @@ Myeloid cell antigens:
 
 **2022 - Nature Medicine <br /> Anti-CD19 CAR T cell therapy for refractory systemic lupus erythematosus** <br /> [Link](https://www.nature.com/articles/s41591-022-02017-5)
 
-- Study type: Case series
+- Study type: Clinical case series
 - CAR construct: CAR19
     - Anti-CD19 ScFv-4-1BB-CD3ζ
 - Disease: Systemic lupus erythematosus (SLE)
+    - Previous treatments: Glucocorticoids, Hydroxychloroquine, Mycophenolate mofetil, Azathioprine, Cyclophosphamide, Rituximab, Belimumab, Tacrolimus, Methotrexate, Leflunomide
 - Number of patients: 5
     - 4 female | 1 male
     - Ages 18-23
@@ -123,10 +124,11 @@ Myeloid cell antigens:
 
 **2023 - The Lancet <br /> CD19-targeted CAR T cells in refractory antisynthetase syndrome** <br /> [Link](https://www.nature.com/articles/s41591-021-01387-0)
 
-- Study type: Case report
+- Study type: Clinical case report
 - CAR construct: CAR19
     - Anti-CD19 ScFv-4-1BB-CD3ζ
-- Disease: Antisynthetase syndrome
+- Disease: Antisynthetase syndrome - 41-year old male
+    - Previous treatments: Rituximab x3, IVIg, Tacrolimus, Cyclophosphamide
 - Lymphodepletion: cyclophosphamide (1000mg/m2/d) on day -3 and fludarabine (30mg/m2/d) on days -5, -4, and -3
 - CAR-T cell count: 1x10^6/kg
     - Peak expansion: 3.5% of CD3+ T cells
