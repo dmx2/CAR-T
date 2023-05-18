@@ -216,3 +216,27 @@ Dr. Chang is the President of the Shenzhen Geno-Immune Medical Institute and has
     - 5 patients remained in remission 5-20 months post-infusion
     - 7 patients relapsed or progressed without antigen escape
     - 7 patients died of relapse or disease progression by the study cutoff time (22 months)
+
+---
+
+**2016 - Blood <br /> Safety and Efficacy Evaluation of 4SCAR19 Chimeric Antigen Receptor-Modified T Cells Targeting B Cell Acute Lymphoblastic Leukemia - Three-Year Follow-up of a Multicenter Phase I/II Study** <br /> [Link](https://www.sciencedirect.com/science/article/pii/S0006497119305889)
+
+- Study type: Phase I/II multicenter trial single-arm with <ins>**no comparator**</ins>
+- CAR construct: 4SCAR19
+    - Anti-CD19 scFv-CD28-CD137-CD27-CD3ζ-iCasp9
+- Cancer: acute B cell lymphoblastic leukemia (B-ALL)
+    - Leukemia blast count in the bone marrow - median: 14.5% 
+        - >50% in 33 patients
+- Patient characteristics (n=102):
+    - 55 children | 47 adults
+    - Ages: 2-17 (children) | 19-78 (adults)
+    - 27 patients received all-HSCT prior to CAR-T therapy
+- Lymphodepletion: variable - cyclophosphamide (17), cyclophosphamide/fludarabine (54), other chemotherapy (29) or none (2)
+- CAR-T cell count: average 1.05 x 10<sup>6</sup> cells/kg
+- Adverse events: 
+    - 73 patients experienced CRS grade 0/1
+    - 13 patients experienced CRS grade 2
+    - 5 patients experienced CRS grade 3
+    - 3 patients experienced CRS grade 4
+    - Remaining 8 patients unclear or not reported
+- Outcome: 89 / 102 patients achieved complete remission (87.3%)
