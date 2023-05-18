@@ -3,7 +3,8 @@
 [1. Overview](#Overview)<br />
 [2. Steps](#Steps)<br />
 [3. Antigens](#Antigens)<br />
-[4. Dr. Lung-Ji Chang Paper Breakdown](#Dr-Lung-Ji-Chang-Paper-Breakdown)
+[4. Clinical Papers for Autoimmune Diseases](#Clinical-Papers-for-Autoimmune-Diseases)<br />
+[5. Dr. Lung-Ji Chang Paper Breakdown](#Dr-Lung-Ji-Chang-Paper-Breakdown)
 
 
 ### Overview
@@ -99,6 +100,26 @@ Myeloid cell antigens:
 - PR1/HLA-A2 (Proteinase 3 or PR1 antigen)
 
 
+### Clinical Papers for Autoimmune Diseases
+
+**2023 - Nature Medicine <br /> Anti-CD19 CAR T cell therapy for refractory systemic lupus erythematosus** <br /> [Link](https://www.nature.com/articles/s41591-022-02017-5)
+
+- Study type: Clinical case series
+- CAR construct: CAR19
+    - Anti-CD19 ScFv-4-1BB-CD3ζ
+- Disease: Systemic lupus erythematosus (SLE)
+- Number of patients: 5
+    - 4 female | 1 male
+    - Ages 18-23
+    - Stage III/IV lupus nephritis
+    - Disease duration: 1-9 years
+- Lymphodepletion: cyclophosphamide (1000mg/m2/d) on day -3 and fludarabine (30mg/m2/d) on days -5, -4, and -3
+- CAR-T cell count: 1x10^6/kg
+    - Peak expansion: 11.48% to 59.12% of CD3+ T cells
+- Adverse events: 3 patients had grade 1 CRS (fever) which was resolved with metamizole (3 patients) and tocilizumab (1 patient)
+- Outcome: complete drug-free remission in all 5 patients, no recurrence after 12 months
+
+
 ### Dr. Lung-Ji Chang Paper Breakdown
 
 Dr. Chang is the President of the Shenzhen Geno-Immune Medical Institute and has been developing CAR-T therapies for cancer, and recently, has begun a clinical trial for using CAR-T therapy in autoimmune diseases (NCT05459870). The following is a breakdown and notes of all his papers related to CAR-T therapy (still in progress).
@@ -114,7 +135,7 @@ Dr. Chang is the President of the Shenzhen Geno-Immune Medical Institute and has
     - 2A is a peptide to allow CAR construct and iCasp9 to be expressed separately
 - Cancer: Acute myeloid leukemia (AML) - 1 patient - 47-year old male - post allogeneic HSCT
 - Lymphodepletion: cyclophosphamide 250mg/kg/day for 3 days (if 50kg - 37.5g total)
-- CAR-T count: 1.8 x 106/kg (if 50kg - 9.0 x 107)
+- CAR-T cell count: 1.8 x 106/kg (if 50kg - 9.0 x 107)
 - Adverse events: Severe CRS on day 4, given Tocilizumab (anti-IL6) and controlled
 - Outcome: Achieved partial remission after 20 days
 
@@ -128,7 +149,7 @@ Dr. Chang is the President of the Shenzhen Geno-Immune Medical Institute and has
     - Concern for this patient due to central nervous system lymphoma and the potential for CART-related encephalopathy syndrome (neurotoxicity) - PCNSL patients are almost always excluded from receiving CAR-T therapy
     - Worth noting the patient achieved remission before CAR-T with 6 rituximab cycles, ibrutinib, and high-dose methotrexate altogether
 - Lymphodepletion: cyclophosphamide 300mg/m2/d and fludarabine 30mg/m2/d (~1.5-2g and ~150-200mg total for 50kg person)
-- CAR-T count: 1.0 x 108 anti-CD19 CAR-T cells and 8.2 x 107 anti-CD70 CAR-T cells total 
+- CAR-T cell count: 1.0 x 108 anti-CD19 CAR-T cells and 8.2 x 107 anti-CD70 CAR-T cells total 
     - Both given on day 0 
     - Expansion of 4SCAR19 and 4SCAR70 was ~2.28% and ~0.48% respectively of PBMCs
 - Adverse events: No CRS or neurotoxicity, only slight hematological toxicity
@@ -160,7 +181,7 @@ Dr. Chang is the President of the Shenzhen Geno-Immune Medical Institute and has
     - Ages 31 to 77
     - Stage II (n=1), stage III (n=5), stage 4 (n=15)
 - Lymphodepletion: cyclophosphamide 900mg/m2 once and fludarabine 25mg/m2/d for 3d (~1.5-2g and ~125-150mg total for 50kg person)
-- CAR-T count: median of 8.9 x 105/kg (if 50kg - 4.45 x 107)
+- CAR-T cell count: median of 8.9 x 105/kg (if 50kg - 4.45 x 107)
     - 1:1 ratio of CD4+ and CD8+ T cells
     - CAR-T persistence correlated with patient response
     - CAR-T expansion DID NOT correlate with patient response
