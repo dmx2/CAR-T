@@ -7,7 +7,7 @@
 [5. Dr. Lung-Ji Chang Paper Breakdown](#Dr-Lung-Ji-Chang-Paper-Breakdown)
 
 
-### Overview
+## Overview
 
 Chimeric antigen receptor T cell (CAR-T) therapy is a novel treatment for cancer, and more recently, autoimmunity. T cells of the adaptive immune system are engineered to give them the ability to target a particular antigen (a protein) of the body. The word “chimeric” is used since the engineered receptor has both antigen-binding and T cell activating functions. CAR-T therapy is generally a 6-step process: leukapheresis, T cell isolation, CAR gene transduction, CAR-T cell expansion, lymphodepletion, and infusion. 
 
@@ -34,7 +34,7 @@ The transfected T cells containing the CAR gene are then expanded ex vivo. This 
 Once enough T cells are expanded, they are infused back into the patient so that they can recognize and target the cells, typically B cells, for death. The CAR-T cells will bind to the cell and, either directly kill the cell via cytotoxic effects (like granzyme B), or release cytokines, recruiting other components of the patient’s immune system to effectively destroy them. This leads to the desired outcome of either a reduction in cancer or mitigation of autoimmune diseases, improving the patient's condition and quality of life.
 
 
-### Steps
+## Steps
 
 - Summary Papers
     - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4909095/
@@ -49,7 +49,7 @@ Once enough T cells are expanded, they are infused back into the patient so that
 6. Infusion - Infuse CAR-T cells back into patient.
 
 
-### Antigen Targets
+## Antigen Targets
 
 B cell antigens:
 - CD10
@@ -100,11 +100,11 @@ Myeloid cell antigens:
 - PR1/HLA-A2 (Proteinase 3 or PR1 antigen)
 
 
-### Clinical Papers for Autoimmune Diseases
+## Clinical Papers for Autoimmune Diseases
 
-**2023 - Nature Medicine <br /> Anti-CD19 CAR T cell therapy for refractory systemic lupus erythematosus** <br /> [Link](https://www.nature.com/articles/s41591-022-02017-5)
+**2022 - Nature Medicine <br /> Anti-CD19 CAR T cell therapy for refractory systemic lupus erythematosus** <br /> [Link](https://www.nature.com/articles/s41591-022-02017-5)
 
-- Study type: Clinical case series
+- Study type: Case series
 - CAR construct: CAR19
     - Anti-CD19 ScFv-4-1BB-CD3ζ
 - Disease: Systemic lupus erythematosus (SLE)
@@ -120,7 +120,21 @@ Myeloid cell antigens:
 - Outcome: complete drug-free remission in all 5 patients, no recurrence after 12 months
 
 
-### Dr. Lung-Ji Chang Paper Breakdown
+**2023 - The Lancet <br /> CD19-targeted CAR T cells in refractory antisynthetase syndrome** <br /> [Link](https://www.nature.com/articles/s41591-021-01387-0)
+
+- Study type: Case report
+- CAR construct: CAR19
+    - Anti-CD19 ScFv-4-1BB-CD3ζ
+- Disease: Antisynthetase syndrome
+- Lymphodepletion: cyclophosphamide (1000mg/m2/d) on day -3 and fludarabine (30mg/m2/d) on days -5, -4, and -3
+- CAR-T cell count: 1x10^6/kg
+    - Peak expansion: 3.5% of CD3+ T cells
+- Adverse events: grade 1 CRS (fever) which was resolved with paracetamol and tocilizumab
+- Outcome: complete remission including resolution of myositis, interstitial lung disease, creatine kinase, and anti-Jo-1 antibodies
+    - No follow-up for this patient reported
+
+
+## Dr. Lung-Ji Chang Paper Breakdown
 
 Dr. Chang is the President of the Shenzhen Geno-Immune Medical Institute and has been developing CAR-T therapies for cancer, and recently, has begun a clinical trial for using CAR-T therapy in autoimmune diseases (NCT05459870). The following is a breakdown and notes of all his papers related to CAR-T therapy (still in progress).
 
