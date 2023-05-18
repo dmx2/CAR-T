@@ -119,6 +119,7 @@ Myeloid cell antigens:
 - Adverse events: 3 patients had grade 1 CRS (fever) which was resolved with metamizole (3 patients) and tocilizumab (1 patient)
 - Outcome: complete drug-free remission in all 5 patients, no recurrence after 12 months
 
+---
 
 **2023 - The Lancet <br /> CD19-targeted CAR T cells in refractory antisynthetase syndrome** <br /> [Link](https://www.nature.com/articles/s41591-021-01387-0)
 
@@ -153,6 +154,7 @@ Dr. Chang is the President of the Shenzhen Geno-Immune Medical Institute and has
 - Adverse events: Severe CRS on day 4, given Tocilizumab (anti-IL6) and controlled
 - Outcome: Achieved partial remission after 20 days
 
+---
 
 **2019 - Frontiers in Oncology <br /> CD19 and CD70 dual-target chimeric antigen receptor T-cell therapy for the treatment of relapsed and refractory primary central nervous system diffuse large B-Cell Lymphoma** <br /> [Link](https://www.frontiersin.org/articles/10.3389/fonc.2019.01350/full)
 
@@ -170,6 +172,7 @@ Dr. Chang is the President of the Shenzhen Geno-Immune Medical Institute and has
 - Outcome: complete remission at 17 month follow up
 - Both CAR-T cell types were detectable 321 days after infusion
 
+---
 
 **2018 - Oral Oncology <br /> CD70 as a target for chimeric antigen receptor T cells in head and neck squamous cell carcinoma** <br /> [Link](https://www.sciencedirect.com/science/article/abs/pii/S1368837518300344)
 
@@ -183,6 +186,7 @@ Dr. Chang is the President of the Shenzhen Geno-Immune Medical Institute and has
 - The authors used T cells from 3 donors to create anti-CD70 CAR-T cells and showed they were able to kill cell lines that overexpressed CD70 at different effector:target ratios
 - Lastly, they concluded that since some TCGA data did not show differences in CD70 expression between cancer and controls, anti-CD70 CAR-T therapy is not suitable for every HNSCC case
 
+---
 
 **2020 - Frontiers in Immunology <br /> Phase I Trial of Fourth-Generation Anti-CD19 Chimeric Antigen Receptor T Cells Against Relapsed or Refractory B Cell Non-Hodgkin Lymphomas** <br /> [Link](https://www.frontiersin.org/articles/10.3389/fimmu.2020.564099/full)
 
