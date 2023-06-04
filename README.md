@@ -115,7 +115,7 @@ Myeloid cell antigens:
     - Stage III/IV lupus nephritis
     - Disease duration: 1-9 years
 - Lymphodepletion: cyclophosphamide (1000mg/m2/d) on day -3 and fludarabine (30mg/m2/d) on days -5, -4, and -3
-- CAR-T cell count: 1x10^6/kg
+- CAR-T cell count: 1x10<sup>6</sup>/kg
     - Peak expansion: 11.48% to 59.12% of CD3+ T cells
 - Adverse events: 3 patients had grade 1 CRS (fever) which was resolved with metamizole (3 patients) and tocilizumab (1 patient)
 - Outcome: complete drug-free remission in all 5 patients, no recurrence after 12 months
@@ -130,11 +130,26 @@ Myeloid cell antigens:
 - Disease: Antisynthetase syndrome - 41-year old male
     - Previous treatments: Rituximab x3, IVIg, Tacrolimus, Cyclophosphamide
 - Lymphodepletion: cyclophosphamide (1000mg/m2/d) on day -3 and fludarabine (30mg/m2/d) on days -5, -4, and -3
-- CAR-T cell count: 1x10^6/kg
+- CAR-T cell count: 1x10<sup>6</sup>/kg
     - Peak expansion: 3.5% of CD3+ T cells
 - Adverse events: grade 1 CRS (fever) which was resolved with paracetamol and tocilizumab
 - Outcome: complete remission including resolution of myositis, interstitial lung disease, creatine kinase, and anti-Jo-1 antibodies
     - No follow-up for this patient reported
+
+
+**2023 - Annals of the Rheumatic Disease <br /> POS1134 NOVEL APPROACH TO TREAT SYSTEMIC LUPUS ERYTHEMATOSUS, BY TARGETING THE “ROOT CAUSE”, B CELLS AND PLASMA CELLS, USING BCMA-CD19 COMPOUND CAR** <br /> [Link](https://ard.bmj.com/content/82/Suppl_1/895.1)
+
+- Study type: Clinical case series
+- CAR construct:
+    - Unknown, but CD19/BCMA bivalent CAR-T (T cells have both CAR constructs)
+- Disease: Systemic lupus erythematosus (SLE)
+- Number of patients: 12
+    - 10 female | 2 male
+    - Ages 20-58
+- Lymphodepletion: unknown
+- CAR-T cell count: 1.5-3.0x10<sup>6</sup>/kg
+- Adverse events: no CRS above grade 1
+- Outcome: all 12 patients achieved complete drug-free remission with no recurrence. Longest follow-up is 3 years
 
 
 ## Dr. Lung-Ji Chang Paper Breakdown
@@ -152,7 +167,7 @@ Dr. Chang is the President of the Shenzhen Geno-Immune Medical Institute and has
     - 2A is a peptide to allow CAR construct and iCasp9 to be expressed separately
 - Cancer: Acute myeloid leukemia (AML) - 1 patient - 47-year old male - post allogeneic HSCT
 - Lymphodepletion: cyclophosphamide 250mg/kg/day for 3 days (if 50kg - 37.5g total)
-- CAR-T cell count: 1.8 x 106/kg (if 50kg - 9.0 x 107)
+- CAR-T cell count: 1.8 x 10<sup>6</sup>/kg (if 50kg - 9.0 x 107)
 - Adverse events: Severe CRS on day 4, given Tocilizumab (anti-IL6) and controlled
 - Outcome: Achieved partial remission after 20 days
 
@@ -201,7 +216,7 @@ Dr. Chang is the President of the Shenzhen Geno-Immune Medical Institute and has
     - Ages 31 to 77
     - Stage II (n=1), stage III (n=5), stage 4 (n=15)
 - Lymphodepletion: cyclophosphamide 900mg/m2 once and fludarabine 25mg/m2/d for 3d (~1.5-2g and ~125-150mg total for 50kg person)
-- CAR-T cell count: median of 8.9 x 105/kg (if 50kg - 4.45 x 107)
+- CAR-T cell count: median of 8.9 x 10<sup>5</sup>/kg (if 50kg - 4.45 x 107)
     - 1:1 ratio of CD4+ and CD8+ T cells
     - CAR-T persistence correlated with patient response
     - CAR-T expansion DID NOT correlate with patient response
