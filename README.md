@@ -130,13 +130,30 @@ Myeloid cell antigens:
     - Anti-CD19 ScFv-4-1BB-CD3ζ
 - Disease: Antisynthetase syndrome - 41-year old male
     - Previous treatments: Rituximab x3, IVIg, Tacrolimus, Cyclophosphamide
-- Lymphodepletion: cyclophosphamide (1000mg/m2/d) on day -3 and fludarabine (30mg/m2/d) on days -5, -4, and -3
+- Lymphodepletion: cyclophosphamide (1000mg/m<sup>2</sup>/d) on day -3 and fludarabine (30mg/m<sup>2</sup>/d) on days -5, -4, and -3
 - CAR-T cell count: 1x10<sup>6</sup>/kg
     - Peak expansion: 3.5% of CD3+ T cells
 - Adverse events: grade 1 CRS (fever) which was resolved with paracetamol and tocilizumab
 - Outcome: complete remission including resolution of myositis, interstitial lung disease, creatine kinase, and anti-Jo-1 antibodies
     - No follow-up for this patient reported
 
+---
+
+**2023 - Annals of the Rheumatic Disease <br />Treatment of a patient with severe systemic sclerosis (SSc) using CD19-targeted CAR T cells** <br /> [Link](https://ard.bmj.com/content/early/2023/05/04/ard-2023-223952)
+
+- Study type: Clinical case report
+- CAR construct: CAR19
+    - Anti-CD19 ScFv-4-1BB-CD3ζ
+- Disease: Systemic sclerosis - 60-year old male
+    - Previous treatments: Methotrexate and mycofenolate mofetil
+- Lymphodepletion: cyclophosphamide (500mg/m<sup>2</sup>/d) on day -3 and fludarabine (12.5mg/m<sup>2</sup>/d) on days -5, -4, and -3
+- CAR-T cell count: 1x10<sup>6</sup>/kg
+    - Peak expansion: 66.4% of CD3+ T cells
+- Adverse events: grade 1 CRS (fever) which resolved after 24 hours
+- Outcome: pulmonary and cardiac functions remained stable, arthritis significantly improved, skin fibrosis improved, Raynaud's phenomenon resolved
+    - No follow-up for this patient reported
+
+---
 
 **2023 - Annals of the Rheumatic Disease <br /> POS1134 NOVEL APPROACH TO TREAT SYSTEMIC LUPUS ERYTHEMATOSUS, BY TARGETING THE “ROOT CAUSE”, B CELLS AND PLASMA CELLS, USING BCMA-CD19 COMPOUND CAR** <br /> [Link](https://ard.bmj.com/content/82/Suppl_1/895.1)
 
