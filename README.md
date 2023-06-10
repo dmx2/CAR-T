@@ -150,7 +150,7 @@ Myeloid cell antigens:
 - CAR-T cell count: 1x10<sup>6</sup>/kg
     - Peak expansion: 66.4% of CD3+ T cells
 - Adverse events: grade 1 CRS (fever) which resolved after 24 hours
-- Outcome: pulmonary and cardiac functions remained stable, arthritis significantly improved, skin fibrosis improved, Raynaud's phenomenon resolved
+- Outcome: pulmonary and cardiac functions remained stable, arthritis significantly improved, skin fibrosis improved, Raynaud's phenomenon improved
     - No follow-up for this patient reported
 
 ---
