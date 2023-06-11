@@ -6,11 +6,11 @@
 - Cell processor tubing ($1,300 - $2,500)
 - Lentiviral vector ($1,000 - $2,000)
 - Chemotherapy drugs
-    - Cyclophosphamide ($200 - $300)
-    - Fludarabine ($250 - $350)
+    - [Cyclophosphamide](https://en.wikipedia.org/wiki/Cyclophosphamide) ($200 - $300)
+    - [Fludarabine](https://en.wikipedia.org/wiki/Fludarabine) ($250 - $350)
 - CRS/ICANS management drugs
-    - Tociliuzumab ($2,000 - $3,000)
-    - Dexamethasone/methtylprednisolone ($25 - $50)
+    - [Tocilizumab](https://en.wikipedia.org/wiki/Tocilizumab) ($2,000 - $3,000)
+    - [Dexamethasone](https://en.wikipedia.org/wiki/Dexamethasone)/[Methylprednisolone](https://en.wikipedia.org/wiki/Methylprednisolone) ($25 - $50)
 
 Total cost: $51,275 - $83,700
 
