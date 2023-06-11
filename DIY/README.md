@@ -25,3 +25,7 @@ Total cost: $51,275 - $83,700
 
 ### Automatic cell processors
 - [CliniMACS Prodigy](https://www.miltenyibiotec.com/US-en/products/clinimacs-prodigy.html)
+
+### Lentiviral vectors
+- [CD19](https://bpsbioscience.com/anti-cd19-car-lentivirus-cd19-scfv-cd8-4-1bb-cd3z-sin-vector)
+- [BCMA](https://bpsbioscience.com/anti-bcma-car-lentivirus-clone-c11d5-3-scfv-cd8-cd28-cd3z-78603)
